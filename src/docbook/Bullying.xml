@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE sect1 PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+    "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+    <!ENTITY mdash "&#8212;">
+    <!ENTITY ellipsis "&#8230;">
+    <!ENTITY reg "&#174;">
+    ]>
+
+<sect1>
+  <title>Bullying</title>
+  <sect2>
+    <title>Remember Most People are Well-Intentioned</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          ...but that doesn't mean they won't deploy bullying tactics
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          A response to assist in dealing with fear
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Empathy and patience but also zero-tolerance
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Manifests as (often transparent) fallacies &mdash; too many to list
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
+  <sect2>
+    <title>Parody</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          Finally, whenever you come against bullying or denial, parody it
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Make fun of it and do it relentlessly, with the intention of provoking introspection
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Violation of the contract of intellectual discourse is an unfortunate possibile outcome, but be prepared for it
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Importantly, declare victory and move on
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
+</sect1>
