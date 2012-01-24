@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE sect1 PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+        "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+        <!ENTITY mdash "&#8212;">
+        <!ENTITY ellipsis "&#8230;">
+        <!ENTITY reg "&#174;">
+        ]>
+
+<sect1>
+  <title>Know The Subject Matter</title>
+  <itemizedlist>
+    <listitem>
+      <para>
+        It is important to understand both the subject matter that you are arguing for and <emphasis role="bold">most importantly</emphasis>, arguing against.
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        Study, study, study, introspect <emphasis>with honest intention</emphasis>.
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+        By understanding the subject matter well, you can leverage your opponent's existing knowledge to solve a familiar problem.
+      </para>
+    </listitem>
+  </itemizedlist>
+</sect1>
