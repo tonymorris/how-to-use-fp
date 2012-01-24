@@ -1,7 +1,8 @@
-personal_ws-1.1 en 28 
+personal_ws-1.1 en 31 
 organization
 waivable
 AUTHORIZED
+practices
 synching
 Ssection
 phonogram
@@ -16,8 +17,10 @@ NONINFRINGEMENT
 utilizing
 Unported
 PGP
+APIs
 Licensor's
 honor
+FP
 dramatico
 MERCHANTIBILITY
 CCPL
