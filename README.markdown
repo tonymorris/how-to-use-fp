@@ -1,7 +1,7 @@
-Docbook Document
-================
+How do I convince my boss to use my favourite FP language?
+==========================================================
 
-A template from which to create a Docbook document.
+Slides for a short talk on how to introduce functional programming at a workplace.
 
 Setting up
 ==========
