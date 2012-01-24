@@ -11,6 +11,7 @@
   <xi:include href="introduction.xml"/>
   <xi:include href="KnowTheSubject.xml"/>
   <xi:include href="TheRightQuestion.xml"/>
+  <xi:include href="EstablishingCommonPremise.xml"/>
   <xi:include href="PGPKEY.xml"/>
   <xi:include href="CC-BY-SA.xml"/>
 </article>

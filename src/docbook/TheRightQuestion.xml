@@ -46,4 +46,19 @@
       </listitem>
     </itemizedlist>
   </sect2>
+  <sect2>
+    <title>How do I entertain professional programming practices?</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          Let us not give emphasis to programming languages &mdash; they are irrelevant to the common interest.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Let us focus on <emphasis>the functional programming thesis</emphasis> itself and what it provides.
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
 </sect1>

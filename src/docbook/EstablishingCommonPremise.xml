@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE sect1 PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+    "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+    <!ENTITY mdash "&#8212;">
+    <!ENTITY ellipsis "&#8230;">
+    <!ENTITY reg "&#174;">
+    ]>
+
+<sect1>
+  <title>Establish the Common Premises</title>
+  <sect2>
+    <title>Most People are Well-Intentioned</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          For example, few people will protest adherence to the Do not Repeat Yourself (DRY) principle.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Well, that is, right up to the point that you reveal the fact that functional programming monopolises this idea. Has your opponent accidentally invented functional programming?
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Relentlessly stay on track with the common premise. That way, you ensure <emphasis>honest discourse</emphasis>.
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
+</sect1>
