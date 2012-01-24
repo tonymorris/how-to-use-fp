@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE sect1 PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+    "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+    <!ENTITY mdash "&#8212;">
+    <!ENTITY ellipsis "&#8230;">
+    <!ENTITY reg "&#174;">
+    ]>
+
+<sect1>
+  <title>Ask the Right Question</title>
+  <sect2>
+    <title>Not the Wrong One</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          Who cares about your favourite functional language?
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          You <emphasis>should not</emphasis> care because it gives rise to a conflict of interest.
+          <itemizedlist>
+            <listitem>
+              <para>
+                Your employer is not interested in entertaining your fantasies and you shouldn't expect otherwise.
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Your employer is interested in solving problems efficiently and effectively.
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Turns out, functional programming happens to kick serious arse when it comes to this objective!
+              </para>
+            </listitem>
+          </itemizedlist>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          You wish to entertain professional programming practices. Does your patsy?
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
+</sect1>
