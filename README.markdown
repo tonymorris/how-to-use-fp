@@ -3,6 +3,16 @@ How do I convince my boss to use my favourite FP language?
 
 Slides for a short talk on how to introduce functional programming at a workplace.
 
+To get started, perform the following:
+
+* Rename docbook-document.iml to yourproject.iml
+* Edit .idea/modules.xml and change to yourproject.iml
+* Edit bin/pdfx and change to yourproject
+* Edit bin/allx and change to yourproject
+* Edit .ghci and change to yourproject
+* Edit Build.hs and change to yourproject
+* Edit README.markdown for notes specific to your project.
+
 Setting up
 ==========
 
